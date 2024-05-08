@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Smartphone",
+        "price": 800,
+        "category": "Electronics",
+        "image": "smartphone.jpg"
+    },
+    {
+        "name": "Desk Lamp",
+        "price": 50,
+        "category": "Home & Living",
+        "image": "desk-lamp.jpg"
+    },
+    {
+        "name": "Running Shoes",
+        "price": 120,
+        "category": "Sports",
+        "image": "running-shoes.jpg"
+    },
+    {
+        "name": "Wireless Mouse",
+        "price": 30,
+        "category": "Electronics",
+        "image": "wireless-mouse.jpg"
+    },
+    {
+        "name": "Coffee Maker",
+        "price": 100,
+        "category": "Kitchen Appliances",
+        "image": "coffee-maker.jpg"
+    },
+    {
+        "name": "Backpack",
+        "price": 70,
+        "category": "Bags",
+        "image": "backpack.jpg"
+    },
+    {
+        "name": "Gaming Chair",
+        "price": 200,
+        "category": "Gaming",
+        "image": "gaming-chair.jpg"
+    },
+    {
+        "name": "Smart TV",
+        "price": 1200,
+        "category": "Electronics",
+        "image": "smart-tv.jpg"
+    },
+    {
+        "name": "Yoga Mat",
+        "price": 40,
+        "category": "Fitness",
+        "image": "yoga-mat.jpg"
+    },
+    {
+        "name": "Dining Table",
+        "price": 500,
+        "category": "Furniture",
+        "image": "dining-table.jpg"
+    },
+    {
+        "name": "Digital Camera",
+        "price": 600,
+        "category": "Photography",
+        "image": "digital-camera.jpg"
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "price": 80,
+        "category": "Electronics",
+        "image": "bluetooth-speaker.jpg"
+    },
+    {
+        "name": "Sunscreen",
+        "price": 15,
+        "category": "Beauty & Personal Care",
+        "image": "sunscreen.jpg"
+    },
+    {
+        "name": "Guitar",
+        "price": 300,
+        "category": "Musical Instruments",
+        "image": "guitar.jpg"
+    },
+    {
+        "name": "Cookware Set",
+        "price": 150,
+        "category": "Kitchen & Dining",
+        "image": "cookware-set.jpg"
+    }
+]

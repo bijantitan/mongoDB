@@ -1,4 +1,9 @@
 import User from "../models/userModel.js";
+import bcrypt from "bcrypt";
+import jwt from "jsonwebtoken";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 export const createUser = async (req, res) => {
     try {
@@ -48,5 +53,23 @@ export const deleteUser = async (req, res) => {
         return res.status(200).json({ userData, msg: "User deleted successfully" });
     } catch (error) {
         return res.status(500).json("Internal server error");
+    }
+}
+
+export const login = async (req, res) => {
+    try {
+        const { email, password } = req.body;
+        const user = await User.findOne({ email });
+        if (!user) {
+            return res.status(401).json({ error: 'Invalid credentials' });
+        }
+        const isValidPassword = await bcrypt.compare(password, user.password);
+        if (!isValidPassword) {
+            return res.status(401).json({ error: 'Invalid credentials' });
+        }
+        const token = jwt.sign({ userId: user._id, email: user.email }, process.env.JWT_SECRET, { expiresIn: '1h' });
+        return res.status(200).json({ token });
+    } catch (error) {
+        res.status(500).json("Internal server error");
     }
 }

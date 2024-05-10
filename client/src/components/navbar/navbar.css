@@ -1,0 +1,8 @@
+.navbar {
+    background-color: #FFFFFF;
+    /* color: #fff; */
+    position: sticky;
+    height: 50px;
+    box-sizing: border-box;
+    box-shadow: 10px 0px 20px 0px rgba(0, 0, 0, 0.338);
+  }

@@ -7,7 +7,8 @@
 }
 
 .image,
-.loginSec {
+.loginSec,
+.registerSec {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +19,8 @@
     flex: 50%;
 }
 
-.loginSec {
+.loginSec,
+.registerSec {
     flex: 50%;
 }
 
@@ -29,7 +31,8 @@
     z-index: 1;
 }
 
-.loginSec {
+.loginSec,
+.registerSec {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -38,7 +41,14 @@
     z-index: 2;
 }
 
-.loginForm {
+.registerSec h1 {
+    color: #005AE6;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.loginForm,
+.registerForm {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -46,17 +56,13 @@
     width: 100%;
 }
 
-/* .loginSec h1 {
-    margin-bottom: 20px;
-    padding-bottom: 25px;
-} */
-
 #email,
-#password {
+#password,
+#name,
+#phoneNo {
     width: 40%;
     height: 50px;
     padding: 5px 0px 5px 45px;
-    /* margin-bottom: 12px; */
     border: none;
     border-radius: 25px;
     background-color: #ffffff;
@@ -69,12 +75,35 @@
     height: 50px;
     border: none;
     border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 1px;
     background-color: #FF3380;
 }
 
 .loginBtn:hover {
     cursor: pointer;
     background-color: #db0658;
+}
+
+.registerBtn {
+    margin-top: 30px;
+    padding: 10px;
+    width: 40%;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 1px;
+    background-color: #005AE6;
+}
+
+.registerBtn:hover {
+    cursor: pointer;
+    background-color: #0058e6ba;
 }
 
 .icon {

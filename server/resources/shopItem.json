@@ -1,0 +1,262 @@
+[
+    {
+        "name": "iPhone 13",
+        "price": 52999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://rukminim2.flixcart.com/image/416/416/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=70&crop=false"
+        },
+        "highlights": [
+            "128 GB ROM",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "12MP + 12MP | 12MP Front Camera",
+            "A15 Bionic Chip Processor"
+        ],
+        "description": "iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience."
+    },
+    {
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": 129999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://rukminim2.flixcart.com/image/416/416/xif0q…u/-original-imagx9egm9mgmvab.jpeg?q=70&crop=false"
+        },
+        "highlights": [
+            "12 GB RAM | 256 GB ROM",
+            "17.27 cm (6.8 inch) Quad HD+ Display",
+            "200MP + 50MP + 12MP + 10MP | 12MP Front Camera",
+            "5000 mAh Battery",
+            "Snapdragon 8 Gen 3 Processor"
+        ],
+        "description": "Behold the Samsung Galaxy S24 Ultra smartphone, an exceptional amalgamation of incredible technology and superior sophistication. Whether you're typing up a storm or jotting something down, Note Assist makes a long story short. New AI-powered editing options let you get the photo you want, like relocating objects and intelligently filling in the space they left behind. With a durable shield of titanium built right into the frame and better scratch resistance with Corning Gorilla Armor, your IP68 water and dust-resistant Galaxy S24 Ultra is ready for adventure. Write, tap, and navigate with the precision your fingers wish they had on the new, flat display."
+    },
+    {
+        "name": "Google Pixel 7 Pro",
+        "price": 68999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://rukminim2.flixcart.com/image/416/416/xif0q…s/-original-imaggsuemmztbghp.jpeg?q=70&crop=false"
+        },
+        "highlights": [
+            "12 GB RAM | 128 GB ROM",
+            "17.02 cm (6.7 inch) Quad HD+ Display",
+            "50MP + 48MP + 12MP | 10.8MP Front Camera",
+            "4926 mAh Battery",
+            "Google Tensor G2 Processor"
+        ],
+        "description": "Experience smooth operation and brilliant user interface with the 5G-ready Google Pixel 7 Pro smartphone that comes loaded with breathtaking features. Google Tensor G2 makes Pixel 7 faster, more efficient, and more secure and it delivers even more helpful features. Furthermore, the Pixel 7 Pro triple rear camera system includes a 5x telephoto lens. The upgraded ultrawide lens with autofocus now powers Macro Focus. Also, the Pixel 7 Pro has a 30x Super Res Zoom for high-quality photos from far away. Moreover, the Pixel 7 Pro's 17.018 cm (6.7) Smooth Display makes everything stunning and immersive. It intelligently adjusts up to 120 Hz for smoother, more responsive performance."
+    },
+    {
+        "name": "OnePlus 10 Pro",
+        "price": 40999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://rukminim2.flixcart.com/image/416/416/xif0q…q/-original-imagkgshx9kfayxq.jpeg?q=70&crop=false"
+        },
+        "highlights": [
+            "Snapdragon 8 Gen 2",
+            "Hasselblad camera",
+            "8 GB RAM | 128 GB ROM",
+            "17.02 cm (6.7 inch) Display",
+            "48MP Rear Camera",
+            "5000 mAh Battery"
+        ],
+        "description": "Flagship killer device with top-notch performance and camera quality."
+    },
+    {
+        "name": "Nothing Phone (2a) 5G",
+        "price": 27999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=70&crop=false"
+        },
+        "highlights": [
+            "12 GB RAM | 256 GB ROM",
+            "17.02 cm (6.7 inch) Full HD+ Display",
+            "50MP (OIS) + 50MP | 32MP Front Camera",
+            "5000 mAh Battery",
+            "Dimensity 7200 Pro Processor"
+        ],
+        "description": "Phone (2a) is fuelled by the custom Dimesity 7200 Pro chipset. Co-engineered between Nothing and MediaTek to deliver the best performance with optimal power consumption. Do more whilst using less thanks to game-changing efficiency from the 8-core 4nm TSMC 2nd Generation process, with clocking speeds of up to 2.8 GHz for multi-tasking to the max. Plus get up to 20 GB RAM with 8 GB RAM Booster."
+    },
+    {
+        "name": "Redmi Note 13 Pro+",
+        "price": 32999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://m.media-amazon.com/images/I/819sWoSDFRL._SX679_.jpg"
+        },
+        "highlights": [
+            "12 GB RAM | 512 GB ROM",
+            "16.94 cm (6.67 inch) Display",
+            "200MP (OIS) + 8MP + 2MP | 16MP Front Camera",
+            "5000 mAh Battery",
+            "Dimensity 7200 Ultra 5G Processor"
+        ],
+        "description": "The Redmi Note 13 Pro+ 5G is a symphony of innovation, luxury, and power. With Fusion Design, a 3D Curved AMOLED Display, In-Display Fingerprint Sensor, Sharp 1.5K Resolution, Flagship IP68 Protection, Elegance Meets Endurance, True 200 MP With OIS, 120 W HyperCharge, and the Global Debut of the MediaTek Dimensity 7200 Ultra-5G, this SuperNote transcends the realm of smartphones. It's a masterpiece that blends art and technology seamlessly, offering an unparalleled experience that goes beyond expectations. Elevate your mobile journey with the Redmi Note 13 Pro+ 5G – where innovation meets perfection."
+    },
+    {
+        "name": "Realme GT 2 Pro",
+        "price": 35999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://rukminim2.flixcart.com/image/416/416/l3rmz…q/-original-imagetmenznfey7h.jpeg?q=70&crop=false"
+        },
+        "highlights": [
+            "Qualcomm Snapdragon 8 Gen 1 Processor",
+            "8 GB RAM | 128 GB ROM Expandable Upto 256 GB",
+            "17.02 cm (6.7 inch) + AMOLED Display",
+            "50MP + 50MP + 2MP | 32MP Front Camera",
+            "5000 mAh Battery"
+        ],
+        "description": "The realme GT2 Pro smartphone is designed with utmost care to provide you with a phone that is user-friendly, as well as, feature-loaded. This phone boasts a 2K AMOLED flat screen with LPTO 2.0 that helps deliver an immersive and cinematic visual experience. Furthermore, the 50 MP dual primary camera with an Ultra-wide lens that provides a 150-degree field of vision enables you to click masterpieces with impressive clarity. Additionally, this phone sports a monstrous battery that offers a video playback of up to 21 hours and supports 65 W SuperDart charging that can power up your phone completely in around 31 minutes."
+    },
+    {
+        "name": "Motorola Edge 50 Pro 5G",
+        "price": 31999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://rukminim2.flixcart.com/image/416/416/xif0q…n/-original-imagzhspjy5g8nh3.jpeg?q=70&crop=false"
+        },
+        "highlights": [
+            "8 GB RAM | 256 GB ROM",
+            "17.02 cm (6.7 inch) Display",
+            "50MP + 13MP + 10MP | 50MP Front Camera",
+            "4500 mAh Battery",
+            "7 Gen 3 Mobile Platform Processor"
+        ],
+        "description": "Motorola Edge 50 Pro has an amalgamation of great designs and amazing features. It embodies a silicone vegan leather finish with a metal frame for a premium feel. Its 17.22 cm (6.7) curved display is Pantone validated for true colours. This 1.5K super HD display, supports HDR10+ and has a refresh rate of 144 Hz to give clear visual effects all the time. Capture beautiful photos with this 50 MP AI-powered camera with OIS that comes with Pantone-validated colours and a f/1.4 wide aperture making it good in low-light conditions. For shake-free videos, AI video stabilization comes in handy, while the AI phone enhancement engine improves image quality. There is also 13 MP ultrawide + macro camera, 10 MP telephoto camers with 30X hybrid zoom and OIS. Selfie camera is 50 MP Auto focus. With IP68 waterproofing, 125 W TurboPower charging, and Hello UI based on Android 14 it is a versatile powerful device. The Style Sync AI generative theming allows you to customize your experience."
+    },
+    {
+        "name": "Xiaomi 14 5G",
+        "price": 1199,
+        "category": "mobile",
+        "image": {
+            "img1": "https://m.media-amazon.com/images/I/71MsYJjQhBL._SL1500_.jpg"
+        },
+        "highlights": [
+            "12 GB RAM | 256 GB ROM",
+            "Snapdragon 8 Gen 3 Processor",
+            "6.36 inch 1.5K 120Hz LTPO AMOLED display",
+            "50MP + 50MP + 50MP | 32MP Front Camera",
+            "4610 mAh Lithium Polymer Battery"
+        ],
+        "description": "Treat your inner tech geek with this Xiaomi 13 Pro 5G mobile that surprises you with its flawless performance. With a 120 Hz, 10-bit 2K+, and AMOLED Display setup, you can show off your flair wherever you go. Your entertainment experience is upgraded with an AMOLED display that makes every image come to life. The quad speaker with sound by Harman/Kardon exhilarates you with its sound clarity. The flagship camera setup of this phone, with 50 MP + 50 MP + 50 MP, complements your photography skills. With the Pro Focus AI tracking technology, you can easily take clear pictures of moving objects. With the liquid cooling technology, your phone’s heat can be controlled even when you are multitasking. Unbeatable performance is achieved with the powerful Snapdragon 8 Gen 1 processor. Supported by a massive 4600 mAh battery and Surge P1 technology, you can witness an exceptional charging speed on this Xiaomi 12 Pro mobile."
+    },
+    {
+        "name": "iQOO Neo9 Pro 5G",
+        "price": 34999,
+        "category": "mobile",
+        "image": {
+            "img1": "https://m.media-amazon.com/images/I/718jcIFYaAL._SX569_.jpg"
+        },
+        "highlights": [
+            "8 GB RAM | 256 GB ROM",
+            "Snapdragon 8gen2",
+            "17.22 cm (6.78 inch) Display",
+            "50MP Rear Camera",
+            "5160 mAh Battery"
+        ],
+        "description": "iQOO Neo9 Pro 5G (Conqueror Black, 8GB RAM, 256GB Storage) | Snapdragon 8 Gen 2 Processor | Supercomputing Chip Q1 | Flagship Level Sony IMX920 Camera"
+    },
+    {
+        "name": "Vivo X80 Pro+",
+        "price": 999,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Dimensity 9000, 2K AMOLED display",
+        "description": "High-performance smartphone with a stunning display."
+    },
+    {
+        "name": "Motorola Edge 30 Pro",
+        "price": 899,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Snapdragon 888+, 144Hz AMOLED display",
+        "description": "Flagship device with a focus on display and performance."
+    },
+    {
+        "name": "Lenovo Legion Y90",
+        "price": 1199,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Snapdragon 8 Gen 2, 144Hz AMOLED display",
+        "description": "Gaming-centric smartphone with top-tier specifications."
+    },
+    {
+        "name": "ASUS ROG Phone 5s",
+        "price": 1099,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Snapdragon 888+, 144Hz AMOLED display",
+        "description": "Gaming-focused smartphone with enhanced performance."
+    },
+    {
+        "name": "BlackBerry Passport 2",
+        "price": 699,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Physical keyboard, secure software",
+        "description": "Modern smartphone with a classic BlackBerry design."
+    },
+    {
+        "name": "Nokia G50 5G",
+        "price": 349,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "5G connectivity, long-lasting battery",
+        "description": "Affordable 5G smartphone with reliable performance."
+    },
+    {
+        "name": "LG Velvet 2 Pro",
+        "price": 799,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Snapdragon 888, Dual screen accessory",
+        "description": "Innovative smartphone with a dual-screen option."
+    },
+    {
+        "name": "ZTE Axon 30 Ultra",
+        "price": 899,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Snapdragon 888, 144Hz AMOLED display",
+        "description": "Feature-packed smartphone with a focus on photography."
+    },
+    {
+        "name": "TCL 30 5G",
+        "price": 299,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "5G connectivity, large display",
+        "description": "Budget-friendly smartphone with modern features."
+    },
+    {
+        "name": "CAT S62 Pro",
+        "price": 699,
+        "category": "mobile",
+        "image": {
+            "img1": ""
+        },
+        "highlights": "Rugged design, thermal imaging camera",
+        "description": "Durable smartphone designed for tough environments."
+    }
+]

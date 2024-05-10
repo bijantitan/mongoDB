@@ -1,6 +1,7 @@
 import React from "react";
 import "./login.css";
-import loginImg from "./login.jpg";
+import loginImg from "./images/login.jpg";
+// import loginImg from "./login.svg";
 import EmailIcon from "@mui/icons-material/Email";
 import LockIcon from "@mui/icons-material/Lock";
 
@@ -32,7 +33,7 @@ function Login() {
         } else {
           sessionStorage.setItem("token", data.token);
           alert("Login successful");
-        //   window.location.href = "/";
+          window.location.href = "/home";
         }
       })
       .catch((err) => {
@@ -69,7 +70,7 @@ function Login() {
               onClick={login}
               className="loginBtn"
             >
-              Login
+              Sign in
             </button>
           </form>
           <p>
